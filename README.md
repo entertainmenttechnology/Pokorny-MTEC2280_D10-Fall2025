@@ -1,2 +1,5 @@
-# Pokorny-MTEC2280_D10-Fall2025
-Class Repository for MTEC 2280: "Physical Computing".     Prof. Ian Pokorny.     CUNY CItyTech - Emerging Media Technology - Fall 2025
+# Pokorny-MTEC2280_D10-Fall2025       
+Class Repository for MTEC 2280: "Physical Computing"      
+Prof. Ian Pokorny       
+CUNY CItyTech - Emerging Media Technology - Fall 2025       
+ 
