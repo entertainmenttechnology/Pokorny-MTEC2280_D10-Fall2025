@@ -1,8 +1,4 @@
-
-
-
-
-## Instructions for Newbies    
+## Instructions for Beginners    
   
 _If you are completely new to GitHub, I recommend using GitHub Desktop, a visual interface that does not require command line and terminal. Please bear with these step by step instructions-- they are long!_  
   
@@ -10,7 +6,7 @@ _If you are completely new to GitHub, I recommend using GitHub Desktop, a visual
 
 2. **Create a new repository** on your GitHub account online. Title the repository PhysComp_FirstName (for example: PhysComp_Ian). Select "Public" for repository type. **Check the box to initialize the repository with a README**.  
 
-3. **Send me your GitHub user name on Discord.**  
+3. **Send me your GitHub repo url on Discord.**  
 
 4.  **Download GitHub for Desktop** at: https://desktop.github.com . Install and open the application. Sign in with your Github.com login.
 
@@ -68,6 +64,6 @@ _You are also welcome to use any GitHub GUI that you prefer, whatever gets the j
   
 1. **Create a new repository**, locally and online, titled PhysComp_FirstName (for example: PhysComp_Ian). 
 
-2. **Send me your GitHub user name on Discord.**
+2. **Send me your GitHub repo url on Discord.**
   
-3. **Go through all past assignments and re-label as needed**, with the short study # and title (SS#_Title), making sure that each Arduino .ino file is contained within a folder of the same name. For example, "SS1_LEDs.ino" should be contained within folder "SS1_LEDs". And so on. **Push all assignments to your repository**. Double check that your online and local repos are synched and up to date.
+3. **Go through all past assignments and re-label as needed**, with the short study # and title (SS#_Title), making sure that each Arduino .ino file is contained within a folder of the same name. For example, "SS1_LEDs.ino" should be contained within folder "SS1_LEDs". And so on. **Push all assignments to your repository**. Double check that your online and local repos are synchronized and up to date.

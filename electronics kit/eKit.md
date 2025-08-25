@@ -3,11 +3,12 @@
 
 ## **IMPORTANT: BRING KIT TO EVERY CLASS SESSION STARTING 9/10**
 
-**<><><><><><><><><><><><><><><><><><><><><><><><><><><><><>**          
+**<><><><><><><><><><><><><><><><><><><><><><><><><><><><><>**      
+ ### REQUIRED ITEMS:
 
 1 - [MicroController: ESP32-S3-DEVKITC-1-N8R8-ND by Espressif Systems](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-DEVKITC-1-N8R8/15295894)
 
-1 - [USB Cable: USB-A to Micro (if buying elsewhere, make sure it's both power & data)](https://www.digikey.com/en/products/detail/cvilux-usa/DH-20M50055/13175849)
+1 - [USB Cable: USB-A to Micro](https://www.digikey.com/en/products/detail/cvilux-usa/DH-20M50055/13175849) (if buying elsewhere, make sure it's both power & data).
 
 1 - [BreadBoard: Double Wide, 1660-Point](https://www.digikey.com/en/products/detail/busboard-prototype-systems/BB1660/19200358)
 
@@ -41,7 +42,7 @@ LEDs:
 
 3 - [White](https://www.digikey.com/en/products/detail/cree-led/C512A-WNN-CZ0B0151/2809629)
 
-Resistors (1/4W, 5%, Axial):
+Resistors:
 
 10 - [100kΩ](https://www.digikey.com/en/products/detail/yageo/CFR-25JR-52-100K/12022)
 
@@ -55,22 +56,22 @@ Resistors (1/4W, 5%, Axial):
  
 ### **You can purchase everything from DigiKey by clicking [HERE](https://www.digikey.com/short/j7nd0zwn).**
 
-That DigiKey link is the simplest way to ensure you have all required materials for the course. You can buy materials elsewhere, but please send item links to me before purchasing for review. 
+That DigiKey link is the simplest way to ensure you have all required materials for the course. You can buy materials elsewhere, but please send item links to me before purchasing for review.
 
-If you order from DigiKey, make sure that item is currently in stock when you add to cart. Sometimes an item go out of stock, and the order will ship without back-ordered items. Please notify me if you see that one of these items has gone out of stock on DigiKey.
+If you order from DigiKey, make sure that item is currently in stock when you add to cart. Sometimes an item go out of stock, and the order will ship without back-ordered items. Please notify me if you see that one of these items has gone out of stock on DigiKey.       
 
 ### We will start using kits in **Session 3 [9/10]**, so please order items as soon as possible to ensure they arrive in time.
 
  **<><><><><><><><><><><><><><><><><><><><><><><><><><><><><>**
 
  ### OPTIONAL ITEMS    
- These items are "quality of life" improvements and nice to have on hand, but not required for the course.
+ These items offer "quality of life" improvements and are nice to have on hand, but not required for the course.
 
- - Knobs for Potentiometers (must fit T18-style shaft):
-    - [soft - white line](https://www.digikey.com/en/products/detail/adafruit-industries-llc/2047/7244950)
-    - [soft - blue line](https://www.digikey.com/en/products/detail/adafruit-industries-llc/2048/7244951)
-    - [soft - red line](https://www.digikey.com/en/products/detail/adafruit-industries-llc/2046/7244949)
-    - [metal - black](https://www.digikey.com/en/products/detail/adafruit-industries-llc/2058/7241416)
+ - Knobs for Potentiometers (anything that fits T18-style shaft):
+    - [rubber - white line](https://www.digikey.com/en/products/detail/adafruit-industries-llc/2047/7244950)
+    - [rubber - blue line](https://www.digikey.com/en/products/detail/adafruit-industries-llc/2048/7244951)
+    - [rubber - red line](https://www.digikey.com/en/products/detail/adafruit-industries-llc/2046/7244949)
+    - [metal - white line](https://www.digikey.com/en/products/detail/adafruit-industries-llc/2058/7241416)
     - [plastic - dot](https://www.digikey.com/en/products/detail/vishay-sfernice/ACCKPS1515NDT18/25623335)
 
 - Magnifier for reading small print on MicroController:
@@ -85,5 +86,5 @@ If you order from DigiKey, make sure that item is currently in stock when you ad
         - [yellow](https://www.digikey.com/en/products/detail/sparkfun-electronics/08024/6833923)
         - [black](https://www.digikey.com/en/products/detail/sparkfun-electronics/08022/6833928)
     - ... or as a set of 6 spools: [HOOK-UP 22AWG SOLID - 6 X 25FT](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1311/6198255?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlhKyaCaEHnhryjdCgp7s5dJA&gclid=Cj0KCQjw8KrFBhDUARIsAMvIApaxxuX3kWnj4AMbgfEsSgD3cSZsanq4i83f5DxrgeE2Kgx4JSFvH0kaAnfFEALw_wcB)
-- [Alligator Clip Test Cables](https://www.digikey.com/en/products/detail/kitronik-ltd/2407/8635502): useful for testing and connecting components to circuit off of breadboard before commiting to soldering.
+- [Alligator Clip Test Cables](https://www.digikey.com/en/products/detail/kitronik-ltd/2407/8635502): useful for testing and connecting components to circuit off of breadboard before committing to soldering.
 - [Multimeter](https://www.digikey.com/en/products/detail/triplett-test-equipment-and-tools/MM200/13178661): any model that can measure Voltage, Resistance, Current, and Continuity
