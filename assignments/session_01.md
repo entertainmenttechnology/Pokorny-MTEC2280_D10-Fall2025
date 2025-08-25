@@ -18,3 +18,5 @@
 
 * Follow these instructions for [setting up your GitHub repo](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D10-Fall2025/blob/main/getting%20started%20with%20github/github%20instructions.md).        
 Create a repo for this class, and send me the url via Discord DM.
+
+* Join our Discord server (check your City Tech email for the invite link. If you did not receive it, email me at IPokorny@citytech.cuny.edu)
