@@ -13,7 +13,8 @@
 
 ## SESSION 01 - Assignments
 
-* Order your [Electronics Kit]().      
+* Order your [Electronics Kit](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D10-Fall2025/blob/main/electronics%20kit/eKit.md) as soon as possible.      
 **You must gather these supplies before 9/10 session.**    
 
-* Follow these instructions for [setting up your GitHub repo]().
+* Follow these instructions for [setting up your GitHub repo](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D10-Fall2025/blob/main/getting%20started%20with%20github/github%20instructions.md).        
+Create a repo for this class, and send me the url via Discord DM.
