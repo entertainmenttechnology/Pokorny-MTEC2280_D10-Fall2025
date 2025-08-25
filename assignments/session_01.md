@@ -1,0 +1,19 @@
+### What we looked at:
+* [LABO](https://www.youtube.com/watch?v=fK9_IKlZ66c)
+
+* [Trash Mirror](https://vimeo.com/27489891)
+
+* [Tristan Perich - Drawing Machine](https://vimeo.com/84979899)
+
+* [Odoshi Cloud Sequence](https://www.ronaldvandermeijs.nl/Odoshi-Cloud-Sequence)
+
+* [Alvin Lucier - Music for Solo Performer](https://www.youtube.com/watch?v=bIPU2ynqy2Y)
+
+* [Cockroach Robot](https://www.youtube.com/watch?v=7mTb7LYj7KE)
+
+## SESSION 01 - Assignments
+
+* Order your [Electronics Kit]().      
+**You must gather these supplies before 9/10 session.**    
+
+* Follow these instructions for [setting up your GitHub repo]().
