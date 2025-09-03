@@ -2,6 +2,8 @@
 
 * [Peter Vogel - The Sound of Shadows](https://vimeo.com/59829961)
 
+* [Schematics](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D10-Fall2025/blob/main/schematics/Schematic_LEDs-VoltageDivider.pdf) for LED and Voltage Divider.
+
 ## SESSION 02 - Assignments - DUE 9/10
 
 * Bring your [Electronics Kit](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D10-Fall2025/blob/main/electronics%20kit/eKit.md) to the next class, and all subsequent class sessions.       
