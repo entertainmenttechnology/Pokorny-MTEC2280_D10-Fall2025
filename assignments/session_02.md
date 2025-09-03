@@ -18,4 +18,6 @@
 
 * [Ohm's Law Tutorial](https://www.electronics-tutorials.ws/dccircuits/dcp_2.html)
 
+* [Series](https://www.electronics-tutorials.ws/dccircuits/dc-series-circuit.html) vs. [Parallel](https://www.electronics-tutorials.ws/dccircuits/dc-parallel-circuit.html) circuits 
+
 * [Voltage Divider](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-voltage-divider)
