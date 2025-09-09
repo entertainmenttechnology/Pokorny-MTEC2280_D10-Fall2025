@@ -20,7 +20,7 @@
 */
 
 //DECLARE GLOBAL VARIABLES HERE:
-int loopCount = 0; //integer variable storing 
+int loopCount = 0; //integer variable storing number of times loop() has run 
 int ms = 500;   //integer variable storing delay amount
 
 void setup() //setup() function runs only once at power on or if reset button pressed
