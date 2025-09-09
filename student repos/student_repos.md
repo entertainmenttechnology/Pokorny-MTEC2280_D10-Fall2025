@@ -6,7 +6,7 @@
 
 3. [Ethan](https://github.com/equigs8/PhysComp_Ethan)
 
-4. 
+4. [Jay K](https://github.com/TarnishedAyame/PhysComp_JayKim)
 
 5. 
 
