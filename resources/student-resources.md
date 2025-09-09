@@ -15,7 +15,8 @@ _Have an idea for this list? DM me on Discord!_
 [ESP32-S3 Dev Kit - Getting Started Guide](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitc-1/user_guide.html#getting-started)         
 [ESP32-S3 Dev Kit - Pin Layout Diagram](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/_images/ESP32-S3_DevKitC-1_pinlayout_v1.1.jpg)     
 [ESP32-S3 Dev Kit - Dimensions](https://dl.espressif.com/dl/schematics/esp_idf/DXF_ESP32-S3-DevKitC-1_V1.1_20220429.pdf)            
-[ESP32-S3 Dev Kit - Schematic](https://dl.espressif.com/dl/schematics/SCH_ESP32-S3-DevKitC-1_V1.1_20221130.pdf)         
+[ESP32-S3 Dev Kit - Schematic](https://dl.espressif.com/dl/schematics/SCH_ESP32-S3-DevKitC-1_V1.1_20221130.pdf)      
+[FTDI Virtual COM Port Drivers](https://ftdichip.com/drivers/vcp-drivers/)
 
 ### GitHub      
 [GitHub Desktop - Getting Started](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop)     
