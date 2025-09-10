@@ -23,10 +23,3 @@ _Have an idea for this list? DM me on Discord!_
 [GitHub Desktop - Full Documentation](https://docs.github.com/en/desktop)  
 [What is Git?](https://docs.github.com/en/get-started/using-git/about-git)  
 [GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary#branch)              
-
-### Processing
-[Processing.org](https://processing.org)       
-[Getting Started](https://processing.org/tutorials/gettingstarted)     
-[Reference](https://processing.org/reference)    
-[Examples](https://processing.org/examples)       
-      
