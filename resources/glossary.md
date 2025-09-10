@@ -13,15 +13,15 @@ A board of reguarly spaced holes and their associated rows that allows for the p
 ### [Current](https://en.wikipedia.org/wiki/Electric_current)
 The amount of electricity flowing through the circuit. A measurement of electron flow. Indicated by an "I" for intensity. Measured in Amperes, or Amps (A).
 ## D
-### Digital
+### [Digital](https://en.wikipedia.org/wiki/Digital_signal)
 
 ## E
 ### [Electricity](https://en.wikipedia.org/wiki/Electricity)
 The flow of electrons through a conductive material.
 
 ## I
-### IC
-### I/O
+### [Integrated Circuit (IC)](https://en.wikipedia.org/wiki/Integrated_circuit)
+### [I/O](https://en.wikipedia.org/wiki/Input/output)
 
 ## L
 ### [LED](https://en.wikipedia.org/wiki/Light-emitting_diode)
@@ -33,7 +33,7 @@ L.E.D. = Light Emitting Diode
 
 ## O 
 ### Ohm (Unit)
-### Ohm's Law
+### [Ohm's Law](https://en.wikipedia.org/wiki/Ohm%27s_law)
 Voltage = Current x Resistance   
 V = IR
 
@@ -43,8 +43,8 @@ V = IR
 ### Parallel (Circuit)
 
 ## R
-### Resistance
-### Resistor
+### [Resistance](https://en.wikipedia.org/wiki/Electrical_resistance_and_conductance)
+### [Resistor](https://en.wikipedia.org/wiki/Resistor)
 
 ## S
 ### Serial (Communication)
