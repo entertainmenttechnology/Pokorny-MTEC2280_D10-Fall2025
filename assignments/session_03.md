@@ -1,5 +1,5 @@
 
-## SESSION 03 - Assignments - DUE 9/17
+## SESSION 03 - Assignment - DUE 9/17
 
 ## Short Sketch #1 - Digital Output
 Create an Arduino sketch for the ESP32-S3 Dev Board implementing digitalWrite(). Program the microcontroller to display distinct On/Off patterns for the LEDs over time.   
