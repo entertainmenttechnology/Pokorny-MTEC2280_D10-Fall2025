@@ -1,8 +1,8 @@
 # MIDTERM PROJECT: "Integrating Systems"
 
-## WORK-IN-PROGRESS DUE 3/12
+## WORK-IN-PROGRESS DUE 10/15
 
-## MIDTERM DUE 3/19
+## MIDTERM DUE 10/22
 
 Create a physical computing system that accepts user input, is processed on the MCU, and provides output to the user via actuators and indicators. 
 
@@ -59,12 +59,12 @@ Reccomendations:
 
 **NOTE: You must be in class to present on these dates in order to gain full credit.**
 
-### Wednesday 3/12 - MIDTERM WIP DUE
+### Wednesday 10/15 - MIDTERM WIP DUE
 - The project at least should compile without errors, and circuits should be tested. 
 - If you are having technical issues, these should be well documented and presented so they can be addressed before the midterm final version due date.
 - We will playtest in class, so you should integrate that feedback into next iteration.
 - WIP should show around 4-5 hours of work at minimum.
 - Save as "MIDTERM-WIP_YourName" and push to your GitHub repo before start of class
 	
-### Wednesday 3/19 - MIDTERM DUE
+### Wednesday 10/22 - MIDTERM DUE
 - Save your completed midterm project as "MIDTERM_YourName" and push to your GitHub repo before start of class.
