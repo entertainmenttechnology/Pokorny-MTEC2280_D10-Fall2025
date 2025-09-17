@@ -16,7 +16,15 @@ _Have an idea for this list? DM me on Discord!_
 [ESP32-S3 Dev Kit - Pin Layout Diagram](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/_images/ESP32-S3_DevKitC-1_pinlayout_v1.1.jpg)     
 [ESP32-S3 Dev Kit - Dimensions](https://dl.espressif.com/dl/schematics/esp_idf/DXF_ESP32-S3-DevKitC-1_V1.1_20220429.pdf)            
 [ESP32-S3 Dev Kit - Schematic](https://dl.espressif.com/dl/schematics/SCH_ESP32-S3-DevKitC-1_V1.1_20221130.pdf)      
-[FTDI Virtual COM Port Drivers](https://ftdichip.com/drivers/vcp-drivers/)
+[FTDI Virtual COM Port Drivers](https://ftdichip.com/drivers/vcp-drivers/)       
+
+_If your esp32 dev board keeps crashing, becomes completely unresponsive, or you are no longer able to upload any sketch to it, we can put it in Bootloader Mode:_   
+1. Unplug microUSB cable to power off board.
+2. Hold down BOOT button.
+3. Continue to hold down BOOT button, plug in microUSB cable to UART port.
+4. Press RESET while still holding down BOOT.
+5. Release RESET, then release BOOT. 
+6. The board should now be ready for firmware upload. I recommend flashing a simple sketch such as a serial "hello world" test or LED blink to confirm normal operation.
 
 ### GitHub      
 [GitHub Desktop - Getting Started](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop)     
