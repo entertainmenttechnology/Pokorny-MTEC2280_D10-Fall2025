@@ -19,7 +19,8 @@ Focus on human interaction:
 - What is my intended output. What is the "result" of this process?
 
 	
-**Must include at least one instance of the following:**   
+**Must include at least one instance of the following:**       
+
 **HARDWARE:**          
 -  At least one analog sensor:
     - potentiometer
