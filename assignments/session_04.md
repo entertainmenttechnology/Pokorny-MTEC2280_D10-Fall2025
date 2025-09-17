@@ -41,4 +41,5 @@ The arduino .ino file must be in a folder of the same name. For example, the ard
 
 ### REMINDER:
 
-No Class Sessions 9/24 & 10/1. We will resume on 10/8
+No Class Sessions for the next two weeks: 9/24 & 10/1   
+We will resume on 10/8. 
