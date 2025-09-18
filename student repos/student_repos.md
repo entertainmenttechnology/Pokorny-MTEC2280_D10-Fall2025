@@ -10,11 +10,11 @@
 
 5. [Joab](https://github.com/Joabljr/-Users-jj-Documents-Arduino-JoabL_SS1)
 
-6. 
+6. [Jose](https://github.com/Phantom-soup/LEDs-Whatarethey)
 
-7. 
+7. [August](https://github.com/goosey999/PhysComp_August)
 
-8. 
+8. [Tenjin](https://github.com/Tenn456/MTEC-2280-Repo)
 
 9. 
 
