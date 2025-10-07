@@ -1,10 +1,10 @@
 /*
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
-////////////////////////////////////
-//      "ANALOG READ - MAPPED"    //
-//    ADC w/ Rolling Average      //
-//      by Ian Pokorny            //
-////////////////////////////////////
+//////////////////////////////////////
+//      "ANALOG READ - MAPPED"      //
+//    ADC w/ Simple Moving Average  //
+//        by Ian Pokorny            //
+//////////////////////////////////////
 
 ADC Reads can sometimes be noisy and jumpy...
 - Let's implement two software approaches:
