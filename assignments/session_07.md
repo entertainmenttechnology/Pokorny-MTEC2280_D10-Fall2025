@@ -42,7 +42,7 @@ REMEMBER to add the p5.serialport library to the index.html file of your p5.js p
 
 * [Arduino: Serial.available()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/available/)
 
-### Download & Install (if have not already):
+### Download & Install (if you have not already):
 
 * [p5.serialcontrol](https://github.com/p5-serial/p5.serialcontrol/releases/tag/0.1.2)
 
