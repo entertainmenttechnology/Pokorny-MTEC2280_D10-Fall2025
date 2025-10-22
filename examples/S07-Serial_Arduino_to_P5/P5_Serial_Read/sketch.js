@@ -2,7 +2,7 @@
 P5.JS SERIAL READ
 
 An example p5.js sketch that uses the p5.serialport library to read an 8-bit (1-byte) value from the serial port.
-The size of a circle changes according to the received value, which is also displayed on the canvas.
+The size and fill color of a circle changes according to the received value, which is also displayed on the canvas.
 
 This code is designed to work with the "Arduino_Serial_Write" example sketch.
 
