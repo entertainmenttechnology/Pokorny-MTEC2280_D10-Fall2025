@@ -10,8 +10,8 @@ See [MIDTERM](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D10-Fa
 ## SHORT SKETCH #3: DUE 11/05
 Since we didn't finish covering serial communication from microcontroller to p5.js in class, this will be due in two weeks. I will repost in Session 08 assignments as well.
 
-Use a hardware analog sensor to control a software p5.js sketch. You may use either a photocell/LDR or Potentiometer as your sensor. The p5,js sketch must include:
-- use of analog sensor data to control multiple elements of your Processing sketch. For example:
+Use a single hardware analog sensor to control a software p5.js sketch. You may use either a photocell/LDR or Potentiometer as your sensor. The p5,js sketch must include:
+- use of analog sensor data to control multiple elements of your P5 sketch. For example:
     - fill color, background color, shape size, shape location, etc.
 - use of map() function
 - use of declared variables
