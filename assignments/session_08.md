@@ -42,7 +42,7 @@ Have your project (both hardware and software aspects) ready to present at the n
 
 * [P5.JS: Reference](https://p5js.org/reference/)
 
-* [P5 SerialPort Library](https://processing.org/reference/libraries/serial/index.html) (check out METHODS on this page)
+* [P5 SerialPort Library](https://github.com/p5-serial/p5.serialport) (check out METHODS on this page)
 
 * [Arduino: Serial.print()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/print/)
 
