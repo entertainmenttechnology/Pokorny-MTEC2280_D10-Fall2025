@@ -1,7 +1,7 @@
 
 ## SESSION 08
 
-REMEMBER to add the p5.serialport library to the index.html file of your p5.js project:
+REMEMBER to add the p5.serialport library to the index.html file of your p5.js projects:
 
 ```html
 <script language="javascript" type="text/javascript" src="https://cdn.jsdelivr.net/npm/p5.serialserver@0.0.28/lib/p5.serialport.js"></script>
