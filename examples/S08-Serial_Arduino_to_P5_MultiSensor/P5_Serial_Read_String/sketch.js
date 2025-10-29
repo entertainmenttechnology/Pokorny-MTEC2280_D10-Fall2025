@@ -114,9 +114,6 @@ function serialEvent() //gets called when new data arrives
       // You can also use parseInt() function, which takes a second argument for the base (radix).
       // A base of 10 is for decimal numbers, base of 16 is for hexadecimal, base of 2 is for binary.
       // sensors[i] = parseInt(sensors[i], 10); // converts every element in array to decimal number
-
-      //If you need to convert to float (decimal point numbers), use parseFloat() function:
-      //sensors[i] = parseFloat(sensors[i]); // converts every element in array to float number
     }
     //print(sensors);
   } 
