@@ -1,3 +1,23 @@
+/*
+P5.JS SERIAL SEND PIEZO BUZZER
+
+An example p5.js sketch that uses the p5.serialport library to send data across serial port one byte at a time.
+Sends one byte (8-bit) value to control angle of servo motor. 
+
+This code is designed to work with the "Arduino_Serial_Servo" example sketch.
+
+NOTES:
+- You must run and establish a serial connection with p5.serialcontrol app to use this code:
+  https://github.com/p5-serial/p5.serialcontrol/releases/tag/0.1.2
+
+- Remember to add the p5.serialport library to your index.html file. Add this line below <script src="libraries/p5.min.js"></script>:
+
+    <script language="javascript" type="text/javascript" src="https://cdn.jsdelivr.net/npm/p5.serialserver@0.0.28/lib/p5.serialport.js"></script>
+
+- Make sure the baud rate in options matches the baud rate in your Arduino code.
+- Remember to change the portName variable to match your own serial port.
+*/
+
 let serial; // variable for instance of the serialport library
 let portName = '/dev/tty.usbserial-213320'; // fill in your serial port name
 let options = { baudRate: 9600}; // change the baud rate to match your Arduino code
@@ -67,7 +87,6 @@ function draw()
     let posY = constrain(mouseY, 0, height);
     outByte = map(posY, 0, width, 0, 180); //remap mouseY to 0-180 angle range for servo
     outByte = floor(outByte); // floor() cuts off decimal for whole number integers
-    print(outByte);
     serial.write(outByte); //send outByte across serial port
   }
 }

@@ -48,7 +48,7 @@ void loop()
     ledcWriteTone(piezoPin, freqs[note]); //generate PWM tone on piezo pin at given frequency
   }
   
-  if(Serial.available() > 0)  //if there is data available in the serial buffer
+  if(Serial.available())  //if there is data available in the serial buffer
   {
     inByte = Serial.read(); //read and store that received byte
   }
