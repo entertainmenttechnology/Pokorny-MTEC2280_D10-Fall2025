@@ -1,5 +1,5 @@
 /*
-P5.JS SERIAL SEND PIEZO BUZZER
+P5.JS SERIAL SEND SERVO
 
 An example p5.js sketch that uses the p5.serialport library to send data across serial port one byte at a time.
 Sends one byte (8-bit) value to control angle of servo motor. 
