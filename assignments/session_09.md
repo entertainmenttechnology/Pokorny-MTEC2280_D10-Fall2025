@@ -1,6 +1,6 @@
 ## SESSION 09
 
-## SHORT SKETCH #4: DUE 11/12
+## SHORT SKETCH #5: DUE 11/12
 
 Create a software p5.js sketch that controls at least one hardware actuator via serial. You may use an LED, Servo Motor, or Piezo Buzzer as your actuator. The p5.js sketch must include:
 - use of at least 1 hardware actuator controlled by interaction with your P5 sketch.
