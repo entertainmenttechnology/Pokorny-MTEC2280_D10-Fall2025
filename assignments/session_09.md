@@ -2,8 +2,8 @@
 
 ## SHORT SKETCH: DUE 11/12
 
-Create a software p5.js sketch that controls a hardware actuator via serial. You may use an LED, Servo Motor, or Piezo Buzzer as your actuator. The p5.js sketch must include:
-- use of hardware actuator controlled by interaction with your P5 sketch.
+Create a software p5.js sketch that controls at least one hardware actuator via serial. You may use an LED, Servo Motor, or Piezo Buzzer as your actuator. The p5.js sketch must include:
+- use of at least 1 hardware actuator controlled by interaction with your P5 sketch.
 - at least 2 different modes of behavior: for example, our "P5_Serial_Servo" sketch has a "sweep" mode and a "follow" mode. 
 - at least three graphics primitives.
 - dynamic elements in your P5 sketch (don't just draw a static canvas, animate something!).
@@ -12,7 +12,8 @@ Create a software p5.js sketch that controls a hardware actuator via serial. You
 
 Feel free to use images, sound library, etc. The content is completely up to you, but it needs to be controlled by Serial UART from your P5.JS Sketch.             
 
-Upload your completed code (both arduino & p5.js) to your repo before the beginnning of next class session. Remember, the arduino .ino file must go in folder of same name, and the p5.js project must include its entire project folder and it contents.   
+Upload your completed code (both arduino & p5.js) to your repo before the beginnning of next class session.   
+Remember, the arduino .ino file must go in folder of same name, and the p5.js project must include its entire project folder and it contents.   
 Have your project (both hardware and software aspects) ready to present at the next class critique.
 
 ### Familiarize yourself with:
