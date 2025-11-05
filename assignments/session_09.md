@@ -22,6 +22,8 @@ Have your project (both hardware and software aspects) ready to present at the n
 
 * [Arduino: Serial.available()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/available/)
 
+* [Arduino: Serial.parseInt()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/parseInt/)
+
 * [Arduino: Serial.readStringUntil()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/readStringUntil/)
 
 * Arduino: the difference between [Serial.print()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/print/) and [Serial.write()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/write/)
