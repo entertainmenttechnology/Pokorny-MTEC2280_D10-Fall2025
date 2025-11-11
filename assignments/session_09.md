@@ -1,5 +1,11 @@
 ## SESSION 09
 
+REMEMBER to add the p5.serialport library to the index.html file of your p5.js projects:
+
+```html
+<script language="javascript" type="text/javascript" src="https://cdn.jsdelivr.net/npm/p5.serialserver@0.0.28/lib/p5.serialport.js"></script>
+```
+
 ## SHORT SKETCH #5: DUE 11/12
 
 Create a software p5.js sketch that controls at least one hardware actuator via serial. You may use an LED, Servo Motor, or Piezo Buzzer as your actuator. The p5.js sketch must include:
