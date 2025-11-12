@@ -10,9 +10,8 @@ REMEMBER to add the p5.serialport library to the index.html file of your p5.js p
 
 Create a software p5.js sketch and arduino sketch that implements serial handshaking (call & response). You may use any combination of sensors and actuators, but they should be controlled (or control) via serial. This assignment is more open-ended, as we have now learned to communicate in both directions in the same project! The content and approach are completely up to you, but it needs to implement serial handshaking.    
 The short study must include:
-- use of at least 2 hardware actuators controlled by interaction with your P5 sketch.  
-    or
-- use of at least 2 sensors controlling some aspect of your P5 sketch.
+- use of at least 2 hardware actuators controlled by interaction with your P5 sketch,  
+    or at least 2 sensors controlling some aspect of your P5 sketch.
 - at least 2 different modes of behavior: for example, our "P5_Serial_Servo" sketch has a "sweep" mode and a "follow" mode. 
 - at least three graphics primitives.
 - dynamic elements in your P5 sketch (don't just draw a static canvas, animate something!).
