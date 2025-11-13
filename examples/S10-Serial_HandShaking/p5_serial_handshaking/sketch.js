@@ -2,7 +2,7 @@
 P5.JS SERIAL HANDSHAKING EXAMPLE
 
 
-An example p5.js sketch that uses the p5.serialport library to _____ across serial port.
+An example p5.js sketch that uses the p5.serialport library to communicate using call and response across serial port.
 Bidirectional Serial communication is established between P5.JS sketch and the ESP32 microcontroller.
 Transmits(Tx) control bytes from P5 and Receives(Rx) sensor data from the microcontroller via Serial UART.
 Click the Circle Button to Begin:
@@ -11,7 +11,7 @@ Click the Circle Button again to Pause/Start receiving data:
   - Pause will send a control byte of 'B' to the microcontroller to indicate that we want to pause receiving data.
   - Clicking the button when Paused will send 'A' to resume receiving data.
 
-This code is designed to work with the "____" example sketch.
+This code is designed to work with the "arduino_serial_handshaking.ino" example sketch.
 
 NOTES:
 - You must run and establish a serial connection with p5.serialcontrol app to use this code:
