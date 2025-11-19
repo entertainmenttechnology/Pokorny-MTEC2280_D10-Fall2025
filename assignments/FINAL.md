@@ -13,7 +13,7 @@ These projects include an independent research component, based on your interest
     
 ## Project Parameters  
 **Projects must:**   
-* **Use sensors or actuators communicating between Arduino and Processing**:    
+* **Use sensors or actuators communicating between Arduino and Software**:    
 At least 3 sensors sending data from Arduino to P5 ...OR... P5 sending data to at least 3 actuators.    
 ...OR...    
 two-way communication between Arduino and P5 with a combo of sensors and actuators. (If you have a project idea that does not meet the requirement above, discuss with me, as we can potentially modify this if another part of the project is more substantial.)  
