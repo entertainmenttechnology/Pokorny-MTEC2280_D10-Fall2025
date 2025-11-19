@@ -26,4 +26,5 @@ There is no other homework assignment this week, so take this time to generate i
 
 * [Arduino: #define](https://docs.arduino.cc/language-reference/en/structure/further-syntax/define/)
 
-
+OPTIONAL:
+* [MAX/MSP: Serial Comms](https://docs.cycling74.com/learn/articles/communicationschapter02/)
