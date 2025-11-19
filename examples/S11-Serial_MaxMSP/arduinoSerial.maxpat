@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 639.0, 123.0, 997.0, 1012.0 ],
+		"rect" : [ 123.0, 99.0, 878.0, 823.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -45,8 +45,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 94.5, 88.0, 97.0, 33.0 ],
-					"presentation_linecount" : 2,
+					"patching_rect" : [ 76.0, 66.0, 97.0, 33.0 ],
 					"text" : "< poll serial port every 30ms"
 				}
 
@@ -59,7 +58,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 162.5, 857.0, 50.0, 22.0 ]
+					"patching_rect" : [ 160.0, 730.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -71,7 +70,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 44.5, 857.0, 50.0, 22.0 ]
+					"patching_rect" : [ 45.0, 730.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -82,7 +81,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 573.0, 131.0, 29.5, 22.0 ],
+					"patching_rect" : [ 554.0, 109.0, 29.5, 22.0 ],
 					"text" : "127"
 				}
 
@@ -97,7 +96,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 573.0, 76.0, 37.0, 37.0 ]
+					"patching_rect" : [ 554.0, 54.0, 37.0, 37.0 ]
 				}
 
 			}
@@ -107,7 +106,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 615.0, 79.0, 264.0, 20.0 ],
+					"patching_rect" : [ 596.0, 57.0, 264.0, 20.0 ],
 					"text" : "< send any other byte to stop the transmission"
 				}
 
@@ -122,7 +121,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 143.0, 905.0, 89.0, 89.0 ],
+					"patching_rect" : [ 130.0, 767.0, 89.0, 89.0 ],
 					"thickness" : 127.0
 				}
 
@@ -134,7 +133,7 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 143.0, 813.0, 110.0, 22.0 ],
+					"patching_rect" : [ 130.0, 689.0, 110.0, 22.0 ],
 					"text" : "scale 0 1023 0 127"
 				}
 
@@ -149,7 +148,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 31.0, 905.0, 89.0, 89.0 ],
+					"patching_rect" : [ 14.0, 767.0, 89.0, 89.0 ],
 					"thickness" : 127.0
 				}
 
@@ -161,7 +160,7 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 31.0, 813.0, 110.0, 22.0 ],
+					"patching_rect" : [ 15.0, 689.0, 110.0, 22.0 ],
 					"text" : "scale 0 1023 0 127"
 				}
 
@@ -176,7 +175,7 @@
 					"oncolor" : [ 0.799994170665741, 1.0, 0.40000131726265, 1.0 ],
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 367.0, 905.0, 89.0, 89.0 ]
+					"patching_rect" : [ 363.0, 767.0, 89.0, 89.0 ]
 				}
 
 			}
@@ -190,7 +189,7 @@
 					"oncolor" : [ 0.799994170665741, 1.0, 0.40000131726265, 1.0 ],
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 255.0, 905.0, 89.0, 89.0 ]
+					"patching_rect" : [ 246.0, 767.0, 89.0, 89.0 ]
 				}
 
 			}
@@ -200,7 +199,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 126.0, 195.0, 294.0, 20.0 ],
+					"patching_rect" : [ 107.0, 173.0, 294.0, 20.0 ],
 					"text" : "< change letter to match your available serial port"
 				}
 
@@ -211,7 +210,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 271.5, 689.0, 213.0, 20.0 ],
+					"patching_rect" : [ 253.0, 606.0, 213.0, 20.0 ],
 					"text" : "< split group into separate numbers"
 				}
 
@@ -222,7 +221,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 113.5, 570.0, 213.0, 20.0 ],
+					"patching_rect" : [ 95.0, 505.0, 213.0, 20.0 ],
 					"text" : "< convert ASCII symbol to number"
 				}
 
@@ -233,7 +232,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 87.5, 440.0, 213.0, 20.0 ],
+					"patching_rect" : [ 69.0, 392.0, 213.0, 20.0 ],
 					"text" : "< convert integer to ASCII"
 				}
 
@@ -244,7 +243,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 124.0, 311.0, 341.0, 20.0 ],
+					"patching_rect" : [ 105.0, 289.0, 341.0, 20.0 ],
 					"text" : "< list of received values as integer values of ASCII characters"
 				}
 
@@ -256,7 +255,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 103.5, 234.0, 376.0, 47.0 ],
+					"patching_rect" : [ 85.0, 212.0, 379.0, 47.0 ],
 					"text" : "< list is forced out whenever a 13 (ASCII carriage return) is received. also eliminating 10 (ASCII line-feed) from list by ignoring it. Any value that is not 13 or 10 will be stored in list below."
 				}
 
@@ -268,7 +267,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 502.5, 91.0, 29.5, 22.0 ],
+					"patching_rect" : [ 484.0, 69.0, 29.5, 22.0 ],
 					"text" : "255"
 				}
 
@@ -280,7 +279,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 73.5, 621.0, 118.0, 22.0 ],
+					"patching_rect" : [ 55.0, 556.0, 118.0, 22.0 ],
 					"text" : "0 0 0 0"
 				}
 
@@ -292,7 +291,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 73.5, 499.0, 157.0, 22.0 ],
+					"patching_rect" : [ 55.0, 451.0, 157.0, 22.0 ],
 					"text" : "\"0 0 0 0\""
 				}
 
@@ -304,7 +303,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 68.5, 371.0, 251.0, 22.0 ],
+					"patching_rect" : [ 50.0, 339.0, 251.0, 22.0 ],
 					"text" : "48 32 48 32 48 32 48"
 				}
 
@@ -320,7 +319,7 @@
 					"outlettype" : [ "bang" ],
 					"outlinecolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 235.0, 35.0, 38.0, 38.0 ]
+					"patching_rect" : [ 216.0, 13.0, 38.0, 38.0 ]
 				}
 
 			}
@@ -330,7 +329,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 275.5, 39.0, 213.0, 20.0 ],
+					"patching_rect" : [ 257.0, 17.0, 213.0, 20.0 ],
 					"text" : "< print serial device list to console"
 				}
 
@@ -345,7 +344,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 502.5, 36.0, 37.0, 37.0 ]
+					"patching_rect" : [ 484.0, 14.0, 37.0, 37.0 ]
 				}
 
 			}
@@ -357,7 +356,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 232.5, 765.0, 50.0, 22.0 ]
+					"patching_rect" : [ 236.0, 649.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -367,7 +366,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 74.0, 37.0, 157.0, 20.0 ],
+					"patching_rect" : [ 55.0, 15.0, 157.0, 20.0 ],
 					"text" : "< start polling the serial port"
 				}
 
@@ -378,7 +377,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 545.0, 39.0, 264.0, 20.0 ],
+					"patching_rect" : [ 526.0, 17.0, 264.0, 20.0 ],
 					"text" : "< send a byte of 255 to start the transmission"
 				}
 
@@ -391,7 +390,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 166.5, 765.0, 50.0, 22.0 ]
+					"patching_rect" : [ 170.0, 649.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -403,7 +402,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 99.5, 765.0, 50.0, 22.0 ]
+					"patching_rect" : [ 103.0, 649.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -415,7 +414,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 33.5, 765.0, 50.0, 22.0 ]
+					"patching_rect" : [ 37.0, 649.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -426,7 +425,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 4,
 					"outlettype" : [ "int", "int", "int", "int" ],
-					"patching_rect" : [ 33.5, 688.0, 218.0, 22.0 ],
+					"patching_rect" : [ 15.0, 605.0, 218.0, 22.0 ],
 					"text" : "unpack 0 0 0 0"
 				}
 
@@ -438,7 +437,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 33.5, 569.0, 72.0, 22.0 ],
+					"patching_rect" : [ 15.0, 504.0, 72.0, 22.0 ],
 					"style" : "newobjGreen",
 					"text" : "fromsymbol"
 				}
@@ -451,7 +450,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"patching_rect" : [ 33.5, 439.0, 46.0, 22.0 ],
+					"patching_rect" : [ 15.0, 391.0, 46.0, 22.0 ],
 					"style" : "newobjBlue",
 					"text" : "itoa"
 				}
@@ -464,7 +463,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 34.0, 310.0, 81.0, 22.0 ],
+					"patching_rect" : [ 15.0, 288.0, 81.0, 22.0 ],
 					"text" : "zl group 1000"
 				}
 
@@ -477,7 +476,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 34.0, 35.0, 38.0, 38.0 ],
+					"patching_rect" : [ 15.0, 13.0, 38.0, 38.0 ],
 					"style" : "toggleGreen"
 				}
 
@@ -489,7 +488,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 34.0, 87.0, 56.0, 22.0 ],
+					"patching_rect" : [ 15.0, 65.0, 56.0, 22.0 ],
 					"text" : "metro 30"
 				}
 
@@ -501,7 +500,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 3,
 					"outlettype" : [ "bang", "bang", "" ],
-					"patching_rect" : [ 34.0, 234.0, 58.0, 22.0 ],
+					"patching_rect" : [ 15.0, 212.0, 58.0, 22.0 ],
 					"text" : "sel 13 10"
 				}
 
@@ -523,7 +522,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 235.0, 87.0, 33.0, 22.0 ],
+					"patching_rect" : [ 216.0, 65.0, 33.0, 22.0 ],
 					"text" : "print"
 				}
 
@@ -535,7 +534,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
-					"patching_rect" : [ 34.0, 194.0, 77.0, 22.0 ],
+					"patching_rect" : [ 15.0, 172.0, 77.0, 22.0 ],
 					"style" : "newobjYellow",
 					"text" : "serial c 9600"
 				}
