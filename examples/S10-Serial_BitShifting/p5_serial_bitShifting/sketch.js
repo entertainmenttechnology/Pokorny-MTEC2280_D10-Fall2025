@@ -20,7 +20,7 @@ NOTES:
 */
 
 let serial; // variable for instance of the serialport library
-let portName = '/dev/tty.usbserial-213320'; // fill in your serial port name
+let portName = '/dev/tty.usbserial-110'; // fill in your serial port name
 let options = { baudRate: 9600}; // change the baud rate to match your Arduino code
 
 let mode = 0;
