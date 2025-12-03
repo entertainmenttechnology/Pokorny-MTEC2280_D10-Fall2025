@@ -37,7 +37,7 @@ void setup()
 {
   pinMode(buttonPin_1, INPUT_PULLUP); 
   pinMode(buttonPin_2, INPUT_PULLUP); 
-  Serial.begin(9600); //start serial comm @ 115200 baud rate
+  Serial.begin(9600); //start serial comm @ 9600 baud rate
   Keyboard.begin(); //init keyboard object
   USB.begin();  //init USB object
 }
