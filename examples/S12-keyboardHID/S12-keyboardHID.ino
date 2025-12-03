@@ -24,8 +24,8 @@ https://docs.arduino.cc/built-in-examples/usb/KeyboardAndMouseControl/
 USBHIDKeyboard Keyboard;
 
 //Define Pins
-const int buttonPin_1 = 12;
-const int buttonPin_2 = 13;
+const int buttonPin_1 = 1;
+const int buttonPin_2 = 2;
 
 //Button Variables
 bool buttonState_1 = 0;
@@ -37,7 +37,7 @@ void setup()
 {
   pinMode(buttonPin_1, INPUT_PULLUP); 
   pinMode(buttonPin_2, INPUT_PULLUP); 
-  Serial.begin(115200); //start serial comm @ 115200 baud rate
+  Serial.begin(9600); //start serial comm @ 115200 baud rate
   Keyboard.begin(); //init keyboard object
   USB.begin();  //init USB object
 }
